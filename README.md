@@ -67,7 +67,7 @@ All technology keywords are available in English (German aliases also work):
 ### Step 1: Clone / copy project
 
 ```bash
-git clone https://github.com/YOUR_USER/mastr-mcp-server.git
+git clone https://github.com/UliRCS/mastr-mcp-server.git
 cd mastr-mcp-server
 ```
 

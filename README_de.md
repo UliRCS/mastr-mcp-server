@@ -65,7 +65,7 @@ Alle Technologie-Keywords sind konsistent in Englisch verfügbar (deutsche Alias
 ### Schritt 1: Projekt klonen / kopieren
 
 ```bash
-git clone https://github.com/YOUR_USER/mastr-mcp-server.git
+git clone https://github.com/UliRCS/mastr-mcp-server.git
 cd mastr-mcp-server
 ```
 
