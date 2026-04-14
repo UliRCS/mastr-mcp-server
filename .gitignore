@@ -1,0 +1,23 @@
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# zeep WSDL cache
+*.sqlite
+
+# IDE / tools
+.claude/settings.local.json
+.pytest_cache/
+
+# Internal / PE-specific files (not for publishing)
+CLAUDE.md
+mastr.py
+MaStR_Feldvergleich_Public_vs_SOAP.xlsx
