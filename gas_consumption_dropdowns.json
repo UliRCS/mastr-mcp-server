@@ -1,0 +1,48 @@
+{
+  "status": {
+    "endgültig stillgelegt": "38",
+    "in betrieb": "35",
+    "in planung": "31",
+    "vorübergehend stillgelegt": "37"
+  },
+  "bundesland": {
+    "ausschließliche wirtschaftszone": "1416",
+    "baden-württemberg": "1402",
+    "bayern": "1403",
+    "berlin": "1401",
+    "brandenburg": "1400",
+    "bremen": "1404",
+    "hamburg": "1406",
+    "hessen": "1405",
+    "mecklenburg-vorpommern": "1407",
+    "niedersachsen": "1408",
+    "nordrhein-westfalen": "1409",
+    "rheinland-pfalz": "1410",
+    "saarland": "1412",
+    "sachsen": "1413",
+    "sachsen-anhalt": "1414",
+    "schleswig-holstein": "1411",
+    "thüringen": "1415"
+  },
+  "gas_quality": {
+    "h-gas": "767",
+    "l-gas": "766"
+  },
+  "country": {
+    "belgien": "66",
+    "dänemark": "90",
+    "deutschland": "84",
+    "frankreich": "106",
+    "luxemburg": "169",
+    "niederlande": "198",
+    "österreich": "206",
+    "polen": "215",
+    "schweiz": "231",
+    "tschechische republik": "269"
+  },
+  "dso_check": {
+    "geprüft": "2954",
+    "in prüfung": "2955",
+    "nicht vorgesehen": "3075"
+  }
+}

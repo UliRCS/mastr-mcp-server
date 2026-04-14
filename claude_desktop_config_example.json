@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mastr": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory", "C:\\Users\\DEIN_USER\\mastr-mcp-server",
+        "mastr_mcp_server.py"
+      ]
+    }
+  }
+}
