@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.UliRCS/mastr-mcp-server",
   "title": "MaStR MCP Server",
-  "description": "MCP server for the German Marktstammdatenregister (MaStR) — energy market register of the Bundesnetzagentur",
-  "version": "1.0.0",
+  "description": "MCP server for the German Marktstammdatenregister (MaStR) energy market register",
+  "version": "1.0.1",
   "websiteUrl": "https://github.com/UliRCS/mastr-mcp-server",
   "repository": {
     "url": "https://github.com/UliRCS/mastr-mcp-server",
@@ -13,7 +13,7 @@
     {
       "registryType": "pypi",
       "identifier": "mastr-mcp-server",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "runtimeHint": "python",
       "transport": {
         "type": "stdio"
