@@ -17,6 +17,9 @@ build/
 .claude/settings.local.json
 .pytest_cache/
 
+# Tools
+mcp-publisher.exe
+
 # Internal / PE-specific files (not for publishing)
 CLAUDE.md
 mastr.py
