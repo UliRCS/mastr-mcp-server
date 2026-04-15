@@ -1,0 +1,37 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.UliRCS/mastr-mcp-server",
+  "title": "MaStR MCP Server",
+  "description": "MCP server for the German Marktstammdatenregister (MaStR) — energy market register of the Bundesnetzagentur",
+  "version": "1.0.0",
+  "websiteUrl": "https://github.com/UliRCS/mastr-mcp-server",
+  "repository": {
+    "url": "https://github.com/UliRCS/mastr-mcp-server",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "mastr-mcp-server",
+      "version": "1.0.0",
+      "runtimeHint": "python",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "MASTR_USER",
+          "description": "MaStR Marktakteur number (SOM/SEM...) for SOAP API access. Without credentials, only 7 public tools are available.",
+          "isRequired": false,
+          "isSecret": false
+        },
+        {
+          "name": "MASTR_TOKEN",
+          "description": "MaStR web service token (~540 chars) for SOAP API access. Enables 14 additional SOAP tools.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

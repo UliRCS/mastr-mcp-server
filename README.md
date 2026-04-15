@@ -1,3 +1,4 @@
+<!-- mcp-name: io.github.UliRCS/mastr-mcp-server -->
 # MaStR MCP Server
 
 An MCP server for the **Marktstammdatenregister** (MaStR) — the German energy market master data register operated by the Bundesnetzagentur (Federal Network Agency). Enables Claude Desktop, Cowork, and Claude Code to directly access the German energy plant registry.
